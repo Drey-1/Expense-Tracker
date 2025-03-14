@@ -1,0 +1,24 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "A Expense Tracker in a comand line interface coded on node",
+  "homepage": "https://github.com/Drey-1/Expense-Tracker#readme",
+  "bugs": {
+    "url": "https://github.com/Drey-1/Expense-Tracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drey-1/Expense-Tracker.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "expense-tracker": "node index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
